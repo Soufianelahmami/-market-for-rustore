@@ -41,13 +41,21 @@
 
 },
   "my_data":[
-  {"desc1":"description1 ser ",
-   "photo1":"https://easy-rental.fr/wp-content/uploads/2020/03/caract%C3%A9ristiques-du-macbook-pro-2019.jpg"},
-  {"desc2":"description2 ser","photo2":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc3":"description3 ser","photo3":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc4":"description4 ser","photo4":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc5":"description5 ser","photo5":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"descd":"description d ser","photod":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+  {"desc1":"Welcome to Rustore Market, your go-to destination for an incredible array of Android apps and games. Rustore Market is designed to enhance your mobile experience, offering you access to a vast collection of applications, all in one place.
+",
+   "photo1":"https://iili.io/J9jOAgt.jpg"},
+  {"desc2":"Diverse App Selection: Whether you're looking for productivity tools, entertainment apps, finance apps, or anything in between, Rustore Market has you covered. Our extensive library caters to all your needs.
+r",
+"photo2":"https://iili.io/J9jO77n.jpg"},
+  {"desc3":"Banking Convenience: For Sberbank users, Rustore Market offers seamless access to essential banking apps, making managing your finances easier than ever.
+",
+"photo3":"https://iili.io/J9jOamG.jpg"},
+  {"desc4":"User-Friendly Interface: Navigating Rustore Market is a breeze, with an intuitive and user-friendly design that ensures you can find and download apps quickly.",
+"photo4":"https://iili.io/J9jO5dX.webp"},
+  {"desc5":"Download with Ease: Rustore Market simplifies the download process, allowing you to get the apps and games you love effortlessly.",
+"photo5":"https://iili.io/J9jOYes.png"},
+  {"descd":"dExperience the convenience of Rustore Market today. Whether you're seeking essential banking apps or exploring a world of entertainment, Rustore Market has it all. Download the Rustore app and discover the perfect app for every aspect of your life. Get started now and unlock the potential of your Android device.",
+"photod":"https://iili.io/J9jOAgt.jpg"}
    ]
  
 }
